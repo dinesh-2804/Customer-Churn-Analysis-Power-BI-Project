@@ -102,7 +102,7 @@ The dashboard provides insights into demographics, service usage, contract types
 ## 👥 Team Members
 - **Golla Jaya Krishna** : jayakrishnagolla15@gmail.com  
 - **Dinesh Hemanth Simakurthi** : dienshsimakurthi@gmail.com
-- **Abhilash Vannamaneni**  : 
+- **Abhilash Vannamaneni**  : vannamaneniabhilash@gmail.com
 
 ---
 
